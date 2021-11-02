@@ -30,7 +30,7 @@ async function getWord() {
 }
 
 
-  // let apikey = '5220347bf7msh6020c449e94f746p1b64d0jsn75f6fd17ca2b'
+  
 
   
 
