@@ -2,7 +2,7 @@ let input = document.querySelector('.form-control');
 const btn = document.querySelector('.btn')
 const getAWord = document.querySelector('.word-container')
 
-
+//online dictionary in javascript, using words api with fetch async await
 
 btn.addEventListener('click', () => {
   console.log('the click worked')
